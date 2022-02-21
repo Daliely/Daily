@@ -19,14 +19,10 @@ int main() {
 					return 0;
 				}
 				i++;
-
 			} while (i<3);
 			printf("次数上限\n");
 			return 0;
 		}
 		printf("登陆成功\n");
-		
-	
-	
 	return 0;
 }
